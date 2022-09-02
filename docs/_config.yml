@@ -2,3 +2,8 @@ title: Elisa Beshero's Portfolio Website
 name: Elisa Beshero
 description: representing my digital projects
 timezone: America/New_York
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
